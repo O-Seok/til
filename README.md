@@ -9,7 +9,7 @@
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
 - 함수
-  - [print() / 나도 'Hello World!'  👏🏼]()
+  - [print() / 나도 'Hello World!'  👏🏼](/python/python-print.md)
 - [파이썬 패키지 (PIP)](/python/pip.md)
 - [VScode 초기 설정](/python/setting.md)
 - [시작부터 차곡차곡 자 그럼 설치부터...🧩](/python/downloads.md)
