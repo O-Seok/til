@@ -11,5 +11,6 @@
 - [시작부터 차곡차곡 자 그럼 설치부터...🧩](/python/downloads.md)
 
 ## # etc
+- [가상환경 설정 ( venv )](/etc/virtualen.md)
 - [터미널 에서 VScode 실행 시키기](/etc/openvscode.md)
 
