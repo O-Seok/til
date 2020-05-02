@@ -13,6 +13,7 @@
   - [파이썬의 mutable / immutable 👏🏼](/python/mutable-immutable.md)
   - [문자열 (string)](/python/datatype-string.md)
   - [리스트 (list)](/python/datatype-list.md)
+  - [튜플 (tuple)](/python/datatype-tuple.md)
 - 함수
   - [print() / 나도 'Hello World!'](/python/function-print.md)
 - [파이썬 패키지 (PIP)](/python/pip.md)
