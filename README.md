@@ -10,5 +10,5 @@
 - [VScode 초기 설정](/python/setting.md)
 
 ## # etc
-- [터미널 에서 VScode 실행 시키기](/python/openvscode.md)
+- [터미널 에서 VScode 실행 시키기](/etc/openvscode.md)
 
