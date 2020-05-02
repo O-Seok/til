@@ -1,4 +1,4 @@
-# **T**oday **I** **L**earn
+# Today I Learn
 
 >하루하루 차곡차곡 
 
@@ -9,4 +9,6 @@
 - [시작부터 차곡차곡 자 그럼 설치부터...🧩](/python/downloads.md)
 - [VScode 초기 설정](/python/setting.md)
 
+## # etc
+- [터미널 에서 VScode 실행 시키기](/python/openvscode.md)
 
