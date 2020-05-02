@@ -1,6 +1,6 @@
-# Today I Learn
-
->하루하루 차곡차곡 
+# Today I Learn 
+  
+> 하루하루 차곡차곡
 
 ## # 일지 📝
 - [30 April 2020 🌤](/record/30April2020.md)
