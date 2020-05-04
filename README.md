@@ -24,3 +24,8 @@
 - [가상환경 설정 ( venv )](/etc/virtualen.md)
 - [터미널 에서 VScode 실행 시키기](/etc/openvscode.md)
 
+## # git & github
+- [git & github](/github-Class/git.md)
+- [pull](/github-Class/pull.md)
+
+## # Git & Github
