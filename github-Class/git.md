@@ -11,7 +11,7 @@
 >- git으로 관리되는 `프로젝트들의 저장소`
 
 ## # git 데이터관리 흐름
-다음 그림은 [최우영 강사님](https://github.com/ulgoon/essential-git) git&github 수업자료를 참고 
+다음 그림은 [최우영 님](https://github.com/ulgoon/essential-git) git&github 수업자료를 참고 
 
 <img src="./image/../../image/git_data_transport_commands.png">
 workspace : 내 작업 공간     /
