@@ -74,11 +74,11 @@ claudjung@jeong-yeongseog-ui-MacBookPro chmod-test %
 `d` or `-` : directory or file  
 rwxr-xr-x  
 (user)(group)(other)의 권한   
-3줄씩 3개 총 9자리
-`r` : 읽기
-`w` : 쓰기
-`x` : 실행
-`-` : 권한 없음
+3줄씩 3개 총 9자리  
+`r` : 읽기  
+`w` : 쓰기  
+`x` : 실행  
+`-` : 권한 없음  
 
 ```
 % chmod [옵션](8진수) (파일명)
@@ -95,7 +95,7 @@ rwxr-xr-x
 
 README 파일은 현재 `-rw-r--r--`  
 형태: 파일  
-(user): 읽기, 쓰기
+(user): 읽기, 쓰기   
 (group): 읽기  
 (other): 읽기  
 
