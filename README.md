@@ -8,7 +8,7 @@
 - [28 April 2020 ☀️](/record/28April2020.md)
 - [27 April 2020 ☀️](/record/27April2020.md)
 
-## # 인생은 짧으니깐,   PYTHON ! 😎
+## # 인생은 짧으니깐,   PYTHON ! 😎s
 - [데이터 타입](/python/datatype.md)
   - [파이썬의 mutable / immutable 👏🏼](/python/mutable-immutable.md)
   - [문자열 (string)](/python/datatype-string.md)
@@ -21,6 +21,8 @@
 - [시작부터 차곡차곡 자 그럼 설치부터...🧩](/python/downloads.md)
 
 ## # etc
+- [shell](/etc/shell.md)
+- [vim](/etc/vim.md)
 - [가상환경 설정 ( venv )](/etc/virtualen.md)
 - [터미널 에서 VScode 실행 시키기](/etc/openvscode.md)
 
@@ -28,4 +30,3 @@
 - [git & github](/github-Class/git.md)
 - [pull](/github-Class/pull.md)
 
-## # Git & Github
