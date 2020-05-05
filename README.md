@@ -30,4 +30,5 @@
 - [git & github](/github-Class/git.md)
 - [pull](/github-Class/pull.md)
 - [gitignore](/github-Class/git-ignore.md)
+- [Hexo로 관리하는 github 블로그 👨🏻‍💻](github-Class/blog.md)
 
