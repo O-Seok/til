@@ -1,4 +1,4 @@
-# 튜플 ( tuple )
+# 튜플 (tuple)
 > 튜플은 `immutable` 속성을 가진다.  
 순서 O, 중복 O, 수정 X, 삭제 X
 
