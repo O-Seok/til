@@ -3,6 +3,7 @@
 > 하루하루 차곡차곡
 
 ## # 일지 📝
+- [2 May 2020 ☀️](/record/2May2020.md)
 - [1 May 2020 ☁️](/record/1May2020.md)
 - [30 April 2020 🌤](/record/30April2020.md)
 - [29 April 2020 🌤](/record/29April2020.md)
@@ -13,8 +14,8 @@
 - 제어문
   - [조건문 (if)](/python/control-if.md)
   - 반복문
-    - [for]()
-    - [while]()
+    - [for](/python/control-for.md)
+    - [while](/python/control-while.md)
 - [데이터 타입](/python/datatype.md)
   - [파이썬의 mutable / immutable 👏🏼](/python/mutable-immutable.md)
   - [문자열 (string)](/python/datatype-string.md)
