@@ -24,6 +24,8 @@
   - [딕셔너리 (dict)](/python/datatype-dict.md)
   - [집합 (set)](/python/datatype-set.md)
 - 함수
+  - [간결! 간단! 람다식 (lambda)](/python/function-lambda.md)
+  - [사용자 정의 함수 만들고 호출하기!](/python/function.md)
   - [print() / 나도 'Hello World!'](/python/function-print.md)
 - [파이썬 패키지 (PIP)](/python/pip.md)
 - [VScode 초기 설정](/python/setting.md)
