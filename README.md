@@ -10,6 +10,11 @@
 - [27 April 2020 ☀️](/record/27April2020.md)
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
+- 제어문
+  - [조건문 (if)](/python/control-if.md)
+  - 반복문
+    - [for]()
+    - [while]()
 - [데이터 타입](/python/datatype.md)
   - [파이썬의 mutable / immutable 👏🏼](/python/mutable-immutable.md)
   - [문자열 (string)](/python/datatype-string.md)
