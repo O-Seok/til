@@ -3,6 +3,7 @@
 > 하루하루 차곡차곡
 
 ## # 일지 📝
+- [1 May 2020 ☁️](/record/1May2020.md)
 - [30 April 2020 🌤](/record/30April2020.md)
 - [29 April 2020 🌤](/record/29April2020.md)
 - [28 April 2020 ☀️](/record/28April2020.md)
