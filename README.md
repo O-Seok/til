@@ -14,6 +14,8 @@
   - [문자열 (string)](/python/datatype-string.md)
   - [리스트 (list)](/python/datatype-list.md)
   - [튜플 (tuple)](/python/datatype-tuple.md)
+  - [딕셔너리 (dict)](/python/datatype-dict.md)
+  - [집합 (set)](/python/datatype-set.md)
 - 함수
   - [print() / 나도 'Hello World!'](/python/function-print.md)
 - [파이썬 패키지 (PIP)](/python/pip.md)
