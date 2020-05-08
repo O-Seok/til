@@ -3,6 +3,7 @@
 > 하루하루 차곡차곡
 
 ## # 일지 📝
+- [6 May 2020 ☀️](record/6May2020.md)
 - [5 May 2020 ☁️](record/5May2020.md)
 - [4 May 2020 🌧](record/4May2020.md)
 - [3 May 2020 ☀️](record/3May2020.md)
@@ -15,6 +16,7 @@
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
 - [클래스 (class)](python/class.md)
+  - [클래스 상속 (inheritance)](/python/class-inheritance.md)
 - 제어문
   - [조건문 (if)](/python/control-if.md)
   - 반복문
