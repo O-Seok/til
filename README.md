@@ -15,6 +15,7 @@
 - [27 April 2020 ☀️](/record/27April2020.md)
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
+- [파일 읽기, 쓰기](/python/file-read-wrtie.md)
 - [파이썬 package & module](/python/package-module.md)
 - [클래스 (class)](python/class.md)
   - [클래스 상속 (inheritance)](/python/class-inheritance.md)
