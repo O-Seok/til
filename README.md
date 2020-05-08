@@ -14,6 +14,7 @@
 - [27 April 2020 ☀️](/record/27April2020.md)
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
+- [클래스 (class)](python/class.md)
 - 제어문
   - [조건문 (if)](/python/control-if.md)
   - 반복문
