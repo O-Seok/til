@@ -3,6 +3,7 @@
 > 하루하루 차곡차곡
 
 ## # 일지 📝
+- [7 May 2020 ☀️](record/7May2020.md)
 - [6 May 2020 ☀️](record/6May2020.md)
 - [5 May 2020 ☁️](record/5May2020.md)
 - [4 May 2020 🌧](record/4May2020.md)
@@ -15,6 +16,7 @@
 - [27 April 2020 ☀️](/record/27April2020.md)
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
+- [에러 & 예외처리](/python/error.md)
 - [파일 읽기, 쓰기](/python/file-read-wrtie.md)
 - [파이썬 package & module](/python/package-module.md)
 - [클래스 (class)](python/class.md)
