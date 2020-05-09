@@ -20,6 +20,7 @@
 - [에러 & 예외처리](/python/error.md)
 - [파일 읽기, 쓰기](/python/file-read-wrtie.md)
   - [외부파일(CSV, EXCEL) 읽기, 쓰기](/python/foreign-file.md)
+  - [CSV 파일 read 시 UnicodeDecodeError 인코딩 오류 대처하기](/python/foreign-error.md)
 - [파이썬 package & module](/python/package-module.md)
 - [클래스 (class)](python/class.md)
   - [클래스 상속 (inheritance)](/python/class-inheritance.md)
