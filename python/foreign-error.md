@@ -27,7 +27,7 @@ UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb9 in position 0: invalid 
 ```py
 import csv
 
-with open('./resource/sample1.csv', 'r', , encoding='CP949') as f:
+with open('./resource/sample1.csv', 'r', encoding='CP949') as f:
   reader = csv.reader(f)
 
   for c in reader:
