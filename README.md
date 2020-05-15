@@ -3,6 +3,8 @@
 > 하루하루 차곡차곡
 
 ## # 일지 📝
+- [15 May 2020 🌧](record/15May2020.md)
+- [14 May 2020 ☀️](record/14May2020.md)
 - [13 May 2020 ☀️](record/13May2020.md)
 - [12 May 2020 ☀️](record/12May2020.md)
 - [11 May 2020 ☁️](record/11May2020.md)
@@ -22,6 +24,8 @@
 - [27 April 2020 ☀️](/record/27April2020.md)
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
+- SQlite
+  - [DB생성, 테이블 생성/삭제, 데이터 삽입](/python/sqlite-basic.md)
 - [에러 & 예외처리](/python/error.md)
 - [파일 읽기, 쓰기](/python/file-read-wrtie.md)
   - [외부파일(CSV, EXCEL) 읽기, 쓰기](/python/foreign-file.md)
