@@ -1,4 +1,4 @@
-# SQlite - db생성, 테이블 생성/삭제, 데이터 삽입
+# SQlite - db 파일생성, 테이블 생성, 데이터 삽입
 
 파이썬에서 데이터베이스 연동 하는데 기본적으로 내장되어 있는 SQlite를 사용하겠다.
 
@@ -14,7 +14,7 @@ sqlite3.verseion:  2.6.0
 sqlite3.sqlite_version:  3.22.0
 ```
 
-## # DB생성 
+## # DB생성 (CONNECT)
 DB를 생성 해보자.  
 sqlite3 connect() 로 DB파일을 생성한다.  
 ```py
@@ -27,7 +27,7 @@ conn = sqlite3.connect('/Users/claudjung/Documents/dev/python_basic/resource/dat
 > ✔️ auto-commit  
 > connect()의 isolation_level 옵션을 None으로 하면, auto-commit 설정이 된다. 따로 commit을 해줄 필요가 없다.
 
-## # 테이블 생성
+## # 테이블 생성 (CREATE)
 db안에 저장할 데이터들의 테이블을 생성한다.  
 
 ### **cursor()**
@@ -48,7 +48,7 @@ c.execute("CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY, \
   username text, email text, phone text, website text, residate text)")
 ```
 
-## # 데이터 삽입
+## # 데이터 삽입 (INSERT)
 생성한 테이블에 데이터를 삽입 해본다.
 
 residate 테이블에 들어갈 등록시간 데이터 구해놓기:
@@ -95,16 +95,7 @@ DB Browser for SQLite를 실행 시키고 방금 생성한 db파일을 선택하
 
 <img src="../image/db_GUI.png">
 
-## # 테이블 데이터 삭제
-테이블을 삭제 할 수 있다.
-```py
-conn = sqlite3.connect('/Users/claudjung/Documents/dev/python_basic/resource/database.db', isolation_level = None)
-
-# 생성한 테이블 삭제
-conn.execute("DELETE FROM users")
-```
-
-## # 접속 해제
+## # 접속 해제 (CLOSE)
 작업을 안한다면, 미래의 알 수 없는 문제를 일으키지 않게 하기 위해 접속을 종료해준다. 
 
 ```py
