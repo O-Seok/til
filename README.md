@@ -1,6 +1,7 @@
 # Today I Learn 
   
-> 하루하루 차곡차곡
+> 블로그로 이사했습니다 :)  
+> [O-Seok.github.io](https://o-seok.github.io/)
 
 ## # 일지 📝
 - [15 May 2020 🌧](record/15May2020.md)
