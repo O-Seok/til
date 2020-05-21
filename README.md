@@ -25,7 +25,9 @@
 
 ## # 인생은 짧으니깐,   PYTHON ! 😎
 - SQlite
-  - [DB생성, 테이블 생성/삭제, 데이터 삽입](/python/sqlite-basic.md)
+  - [DB파일 생성, 테이블 생성, 데이터 삽입](/python/sqlite-basic.md)
+  - [DB 조회](/python/sql-select.md)
+  - [DB 수정, 삭제](/python/sql-set-delete.md)
 - [에러 & 예외처리](/python/error.md)
 - [파일 읽기, 쓰기](/python/file-read-wrtie.md)
   - [외부파일(CSV, EXCEL) 읽기, 쓰기](/python/foreign-file.md)
