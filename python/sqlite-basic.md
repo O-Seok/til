@@ -70,7 +70,8 @@ print('nowDatetime: ', nowDatetime)
 c.execute("INSERT INTO users VALUES(1, 'Jeong', 'totkfa789@gmail.com', '010-0000-0000', 'Jeong.com', ? )", (nowDatetime,))
 
 # 데이터 삽입 2
-c.execute("INSERT INTO users VALUES(1, 'Jeong', 'totkfa789@gmail.com', '010-0000-0000', 'Jeong.com', ? )", (nowDatetime,))
+c.execute("INSERT INTO users(id, username, email, phone, website, residate) VALUES (?, ?, ?, ?, ?, ?)", (2, 'Park', 'Park@gmail.com', '010-1111-1111', 'Park.com', nowDatetime,))
+
 
 ```
 
